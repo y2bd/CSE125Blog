@@ -86,6 +86,23 @@ h1 {
     line-height: 1.5;
 }
 
+.post h2 {
+    margin-bottom: 0;
+}
+
+.post-link {
+    text-decoration: none;
+}
+
+.post-link:hover {
+    text-decoration: underline;
+}
+
+.post-date {
+    color: #777;
+    font-size: 1em;
+}
+
 blockquote {
     background: #F5F8FB;
     padding: 2em;
