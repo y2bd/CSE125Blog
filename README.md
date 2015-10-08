@@ -1,8 +1,8 @@
 # daryl
-Daryl is a performant and opinionated [Jekyll](http://jekyllrb.com) theme. It aims to be simply designed, single-column and above-all, highly-readable. The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/Daryl_Dixon_(TV_Series)), of the Walking Dead. This is a screenshot of the Daryl theme as it stands now:
+Daryl is a performant and responsive [Jekyll](http://jekyllrb.com) theme. It aims to be simply designed and above-all, highly-readable. The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/Daryl_Dixon_(TV_Series)), of the Walking Dead. This is a screenshot of the Daryl theme as it stands now:
 ![Daryl screenshot](https://github.com/andrewcodes/daryl/blob/master/daryl-dev-screenshot.png)
 
-It's not ready for release yet, but is actively being developed. 
+It's not ready for release yet, but is actively being developed.
 
 ## What this theme will be:
 
@@ -13,7 +13,7 @@ It's not ready for release yet, but is actively being developed.
 
 ## Development
 
-Daryl’s *Master* branch is the “clean branch”. *Master* is ready to be deployed at all times once this theme is released. All development will be done on their own branches in a SEMVER style. If a patch or feature needs to be pushed to _Master_, a 1.1.0 (for feature) or 1.0.1 (for a patch/fix) will be created and developed on. 
+Daryl’s *Master* branch is the “clean branch”. *Master* is ready to be deployed at all times once this theme is released. All development will be done on their own branches in a SEMVER style. If a patch or feature needs to be pushed to _Master_, a 1.1.0 (for feature) or 1.0.1 (for a patch/fix) will be created and developed on.
 
 Since this is an open source project, pull requests for fixes are welcome. If you would like to change the design of this theme, you can fork this project.
 
