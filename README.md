@@ -16,6 +16,9 @@ Daryl’s *Master* branch is the “clean branch”. *Master* is ready to be dep
 
 Since this is an open source project, pull requests for fixes are welcome. If you would like to change the design of this theme, you can fork this project.
 
+This is a screenshot of the Daryl theme as it stands now:
+![Daryl screenshot](https://github.com/andrewcodes/daryl/blob/master/daryl-dev-screenshot.png)
+
 ## License
 
 This theme is open sourced under the [MIT license](https://github.com/andrewcodes/daryl/blob/gh-pages/LICENSE).
