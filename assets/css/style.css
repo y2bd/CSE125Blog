@@ -11,19 +11,21 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 =            Global Styles            =
 =====================================*/
 *, *:before, *:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 html {
     font-family: 'Merriweather', Georgia, serif;
     font-size: 16px;
+    background: #fff;
+    color: #333;
 }
 
 .wrapper {
     margin: 0 auto;
-    padding: 0 1em;
+    padding: 0 2em;
     max-width: 48em; /* using max-width to not let the reading column width get too wide */
 }
 
@@ -32,9 +34,30 @@ a {
     text-decoration: underline;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px solid #D8D8D8;
+    padding-top: 4em;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.post:last-child hr {
+    border-bottom: none;
+}
+
 /*==============================
 =            Header            =
 ==============================*/
+.site-header {
+    overflow: hidden;
+    padding: 2em 0 4em 0;
+}
+
 h1 {
     font-size: 1.5em;
 }
@@ -43,3 +66,40 @@ h1 {
     text-decoration: none;
     font-weight: 300;
 }
+
+.site-nav a {
+    text-decoration: none;
+    float: left;
+    padding-right: 1.5em;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+}
+
+/*=======================================
+=            Posts and Pages            =
+=======================================*/
+.post {
+    padding-bottom: 4em;
+    font-size: 1.25em;
+    line-height: 1.5;
+}
+
+blockquote {
+    background: #F5F8FB;
+    padding: 2em;
+    margin: 0;
+    font-style: oblique;
+}
+
+/*==============================
+=            Footer            =
+==============================*/
+.site-footer {
+    border-top: solid 1px #f1f1f1;
+    background: #fafafa;
+    padding: 2em 0;
+    color: #444;
+}
+
