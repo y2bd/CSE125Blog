@@ -42,3 +42,15 @@ My favorite colors are:
 >
 > &#8212; Andrew Lee
 
+{% highlight html %}
+<!-- Here's some sample HTML code: -->
+<div class="a-class">
+    <p>Here's some HTML. Huzzah!</p>
+    <p>HTML is:</p>
+    <ul>
+        <li>The structural layer of your site.</li>
+        <li>HTML was invented by <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>.</li>
+    </ul>
+</div>
+{% endhighlight %}
+
