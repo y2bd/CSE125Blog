@@ -165,6 +165,24 @@ code {
     font-family: Consolas, monospace;
 }
 
+/*=====================================
+=            Page-specific            =
+=====================================*/
+/* Archive Page */
+.post-list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.post-list li {
+    margin-bottom: 20px;
+}
+
+.post-list li:last-child {
+    margin-bottom: 0;
+}
+
 /*==============================
 =            Footer            =
 ==============================*/
