@@ -4,12 +4,13 @@ Daryl is a performant and responsive [Jekyll](http://jekyllrb.com) theme. It aim
 
 It's not ready for release yet, but is actively being developed.
 
-## What this theme will be:
+## This theme is:
 
 - Mobile-first and by nature, performant-first
 - Responsive by default
 - Small file size
 - No Sass/Less. Vanilla HTML and CSS.
+- Includes an Archive/Post-list page template.
 
 ## Development
 

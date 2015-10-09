@@ -3,6 +3,8 @@ layout: page
 title: Archive
 permalink: /archive/
 ---
+This page lists all posts (not pages) organized by date.
+
 <div class="post-list">
     <ul>
         {% for post in site.posts %}
