@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Post 6"
+title:  "Test Post 6 With An Extraordinarily Long Title"
 date:   2015-10-06 13:13:39
 categories:
 ---
