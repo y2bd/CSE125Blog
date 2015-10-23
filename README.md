@@ -18,6 +18,18 @@ Daryl’s *Master* branch is the “clean branch”. *Master* is ready to be dep
 
 Since this is an open source project, pull requests for fixes are welcome. If you would like to change the design of this theme, you can fork this project.
 
+##Tasks
+
+- [X] Add a site description div under the site title h1
+- [X] Add an Archives page
+- [X] Add page navigation
+- [X] Move my site over. Git clone to a new directory then copy posts over from old andrewlee.name directory. Upload. CANCELLED
+- [X] Test RSS feed
+- [ ] Add a left-aligned caption/citation area
+- [ ] Add a favicon
+- [ ] Add a new screenshot from a portrait monitor
+- [ ] Checkout plugins and see if anything is needed (possibly http://www.jekyll-plugins.com/plugins/simple-jekyll-search ?)
+
 ## License
 
 This theme is open sourced under the [MIT license](https://github.com/andrewcodes/daryl/blob/gh-pages/LICENSE).
