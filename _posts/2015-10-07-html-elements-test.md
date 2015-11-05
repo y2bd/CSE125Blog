@@ -32,17 +32,17 @@ Bacon ipsum dolor amet veniam shoulder drumstick salami. Ut in bacon voluptate m
 
 Est frankfurter ullamco mollit, flank chuck adipisicing prosciutto fatback ham hock in. Ad swine elit aliqua commodo. Alcatra pork excepteur incididunt strip steak. Ipsum picanha pariatur exercitation, enim doner tempor meatloaf est drumstick culpa hamburger capicola.
 
-I enjoy the following:
+An unordered list:
 
-- bacon
-- steak
-- ham
+- item 1
+- item 2
+- item 3
 
-My favorite colors are:
+An ordered list:
 
-1. Blue
-2. Grey
-3. Green
+1. Item 1
+2. Item 2
+3. Item 3
 
 > Hey, here's a blockquote.
 >
