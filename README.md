@@ -1,6 +1,6 @@
 # daryl
 Daryl is a performant and responsive [Jekyll](http://jekyllrb.com) theme. It aims to be simply designed and above-all, highly-readable. The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/Daryl_Dixon_(TV_Series)), of the Walking Dead. This is a screenshot of the Daryl theme as it stands now:
-![Daryl screenshot](https://github.com/andrewcodes/daryl/blob/master/daryl-dev-screenshot.png)
+![Daryl screenshot](https://raw.githubusercontent.com/andrewcodes/daryl/master/daryl-screenshot.png)
 
 It's not ready for release yet, but is actively being developed.
 
