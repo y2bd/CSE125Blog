@@ -15,3 +15,6 @@ paginate: 5
 # Build settings
 markdown: kramdown
 highlighter: pygments
+
+# Gems
+gems: [jekyll-paginate]
