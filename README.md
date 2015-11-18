@@ -10,23 +10,29 @@ Daryl is a performant and responsive [Jekyll](http://jekyllrb.com) theme. It aim
 xcode-select --install
 ```
 More info [here](http://jekyllrb.com/docs/installation/) on Jekyll prerequisites.
+
 2. Install [Jekyll](http://jekyllrb.com):
 ```bash
 gem install jekyll
 ```
+
 3. Install the jekyll-paginate gem:
 ```bash
 gem install --user-install --bindir ~/bin --no-document --pre jekyll-paginate
 ```
+
 4. Install the pygments gem for syntax highlighting:
 ```bash
 gem install pygments.rb
 ```
+
 5. Run git clone to download this repo to your machine:
 ```bash
 git clone https://github.com/andrewcodes/daryl.git
 ```
+
 6. Run ```jekyll serve``` from the terminal
+
 7. Browse to http://localhost:4000 to see your site
 
 ##This theme is:
