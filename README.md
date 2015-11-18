@@ -1,8 +1,7 @@
 #Daryl
 
 Daryl is a performant and responsive [Jekyll](http://jekyllrb.com) theme. It aims to be simply designed and above-all, highly-readable. This is a screenshot of the Daryl theme as it stands now:
-![Daryl screenshot](https://raw.githubusercontent.com/andrewcodes/daryl/master/daryl-screenshot.jpg)
-The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/Daryl_Dixon_(TV_Series)), of the Walking Dead. Great character from a stellar television show.
+![Daryl screenshot](https://raw.githubusercontent.com/andrewcodes/daryl/master/daryl-screenshot.jpg) The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/Daryl_Dixon_(TV_Series)), of the Walking Dead. Great character from a stellar television show.
 
 ##Installation
 
@@ -11,35 +10,23 @@ The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/D
 xcode-select --install
 ```
 More info [here](http://jekyllrb.com/docs/installation/) on Jekyll prerequisites.
-
-
 2. Install [Jekyll](http://jekyllrb.com):
 ```bash
 gem install jekyll
 ```
-
-
 3. Install the jekyll-paginate gem:
 ```bash
 gem install --user-install --bindir ~/bin --no-document --pre jekyll-paginate
 ```
-
-
 4. Install the pygments gem for syntax highlighting:
 ```bash
 gem install pygments.rb
 ```
-
-
 5. Run git clone to download this repo to your machine:
 ```bash
 git clone https://github.com/andrewcodes/daryl.git
 ```
-
-
 6. Run ```jekyll serve``` from the terminal
-
-
 7. Browse to http://localhost:4000 to see your site
 
 ##This theme is:
