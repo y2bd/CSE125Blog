@@ -17,9 +17,9 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 }
 
 html {
-    font-family: 'Merriweather', Georgia, serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
-    background: #fff;
+    background: #fafafa;
     color: #333;
 }
 
@@ -264,8 +264,8 @@ a.previous:hover, a.next:hover {
 =            Footer            =
 ==============================*/
 .site-footer {
-    border-top: solid 1px #f1f1f1;
-    background: #fafafa;
+    border-top: solid 1px #EAEAEA;
+    background: #f1f1f1;
     padding: 2em 0;
     color: #444;
 }
