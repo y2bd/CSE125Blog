@@ -5,6 +5,14 @@ Daryl is a performant and responsive [Jekyll](http://jekyllrb.com) theme. It aim
 
 The name of this theme is from [Daryl Dixon](http://walkingdead.wikia.com/wiki/Daryl_Dixon_(TV_Series)), of the Walking Dead. Great character from a stellar television show.
 
+##This theme is:
+
+- Mobile-first and by nature, performant-first
+- Responsive by default
+- Small file size
+- No Sass/Less. Vanilla HTML and CSS.
+- Includes an Archive/Post-list page template.
+
 ##Installation
 
 * Install the Command Line Developer Tools or Xcode (which includes the Command Line Developer Tools) if you don't already have it installed.
@@ -37,13 +45,7 @@ git clone https://github.com/andrewcodes/daryl.git
 
 * Browse to http://localhost:4000 to see your site
 
-##This theme is:
-
-- Mobile-first and by nature, performant-first
-- Responsive by default
-- Small file size
-- No Sass/Less. Vanilla HTML and CSS.
-- Includes an Archive/Post-list page template.
+* Before deploying your site to a produciton enviornment, remove lines 16-27 in the "_includes/head.html" file as this contains my own Google Analytics code.
 
 ##Development
 

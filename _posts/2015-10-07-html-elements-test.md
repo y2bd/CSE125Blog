@@ -9,10 +9,10 @@ This post _demonstrates_ all the **typical** blog post Markdown elements used. T
 ![Example Image](/assets/images/example-image.jpg "Example Image")
 
 <img src="/assets/images/left-example-image.jpg" alt="Left-aligned image" class="l-img">
-To my left is a left-aligned image. You can use the "l-img" class to accomplish this. If the viewport is small, the image shifts to be full-width.
+To my left (or above if you're viewing from a small viewport) is a left-aligned image. You can use the "l-img" class to accomplish this. If the viewport is small, the image shifts to be full-width.
 
 <img src="/assets/images/right-example-image.jpg" alt="Left-aligned image" class="r-img">
-To my right is a right-aligned image. You can use the "r-img" class to accomplish this. Like the left-aligned image, if the viewport is small, the image shifts to be full-width.
+To my right (or above if you're viewing from a small viewport) is a right-aligned image. You can use the "r-img" class to accomplish this. Like the left-aligned image, if the viewport is small, the image shifts to be full-width.
 
 Various header sizes:
 
