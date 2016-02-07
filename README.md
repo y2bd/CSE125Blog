@@ -67,9 +67,7 @@ Since this is an open source project, pull requests for fixes are welcome. If yo
 - [ ] Checkout plugins and see if anything is needed (possibly http://www.jekyll-plugins.com/plugins/simple-jekyll-search ?)
 
 ##Changelog
-
-####v1.0.0 Released - 2015-11-18
-This is the first major release. All tasks directly related to an initial release have been done
+List of all [commits](https://github.com/andrewcodes/daryl/commits/master).
 
 ##License
 
