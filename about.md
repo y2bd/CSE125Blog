@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+exclude: true
 ---
 Daryl is an open source theme for Jekyll designed to be performant, simple, and readable.
 
