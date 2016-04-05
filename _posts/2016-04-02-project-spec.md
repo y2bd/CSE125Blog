@@ -17,6 +17,7 @@ description: The specification of our CSE 125 project
 1. [Who We Are](#who-we-are)
 1. [Communication](#communication)
 1. [Development](#development)
+1. [Schedule](#schedule)
 
 ## What kind of game?
 
@@ -127,3 +128,18 @@ Our project will be developed in C++ using the OpenGL graphics library (and the 
 For programming our Windows developers will be using Visual Studio, and our Mac developers XCode. Thanks to the power of OpenGL, we hope to have our game running on multiple platforms.
 
 We'll be using some common libraries in our development, such as GLFW for windowing and input, SOIL for texture loading, ASSIMP for mesh loading, GLM for math, and FMOD for sound.
+
+## Schedule
+
+|            | Design                | Graphics                   | Art                                                      | Networking                                | Physics                          | Gameplay                                                                                        | Extras                       |
+|------------|-----------------------|----------------------------|----------------------------------------------------------|-------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------|------------------------------|
+|   Week One | General Idea/Concept  | Modularize Graphics Engine | Art-Style Research                                       | CSE124 Review                             |                                  | Gameplay Research                                                                               |                              |
+|   Week Two | Puzzles               | Asset Loading              | Environment Art, Basic Character Model                   | Basic Client/Server TCP Architecture      | Acceleration Structures          | Local Movement                                                                                  | Configuration-based Setup    |
+| Week Three | Puzzles, Level Design | Environment Rendering      | Environment Art                                          | Design Framing (General Packet Structure) | Naive Collision                  | Local Basic Puzzle                                                                              |                              |
+|  Week Four | Puzzles, Level Design | Point-Light Shadows        | Character Design                                         | Game Engine Networking Integration        | Better Collision                 | Multiplayer Movement                                                                            | Basic UI                     |
+|  Week Five | Puzzles, Level Design | Lighting Enhancements      | Character Design, Prop Design                            | Debugging Networking Integration          | Debugging Multiplayer Collisions | Multiplayer Basic Puzzle                                                                        | Controller Support           |
+|   Week Six | Puzzles, Level Design | Particle Systems           | Environment Polish, Music Composition                    | Implementing Extra Messages As Required   | Debugging Multiplayer Collisions | Environment Implementation (Keylocked Doors, Passworded Terminals, etc.), Puzzle Implementation |                              |
+| Week Seven | Puzzles, Level Design | Graphical Effects Polish   | Environment Polish, Music Composition                    | Implementing Extra Messages As Required   |                                  | Puzzle Implementation, Trap Implementation                                                      | UI Polish                    |
+| Week Eight | Game Balance, Testing | SSAO                       | Character/Prop Polish, Music Composition, Sound Design   | Debugging Full Networking                 |                                  | Puzzle Implementation, Trap Implementation                                                      |                              |
+|  Week Nine | Game Balance, Testing | SSAO                       | Character/Prop Polish, Character Animation, Sound Design | Debugging Full Networking                 |                                  | Random Puzzle Selection (Procedural Generation), Puzzle Testing                                 | Cross-Platform Compatibility |
+|   Week Ten | Game Balance, Testing | Configurable Graphics      | Character/Prop Polish, Character Animation, Sound Design | Hostable Servers                          |                                  | Random Puzzle Selection (Procedural Generation), Puzzle Testing                                 |                              |

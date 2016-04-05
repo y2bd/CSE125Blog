@@ -18,21 +18,21 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 
 html {
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     background: #fafafa;
     color: #333;
 }
 
 @media (min-width: 34em) {
     html {
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
 .wrapper {
     margin: 0 auto;
     padding: 0 1em;
-    max-width: 48em; /* using max-width to not let the reading column width get too wide */
+    max-width: 78em; /* using max-width to not let the reading column width get too wide */
 }
 
 @media (min-width: 34em) {
@@ -270,6 +270,33 @@ a.previous:hover, a.next:hover {
     padding: 2em 0;
     color: #444;
 }
+
+/*==============================
+=            CUSTOM            =
+==============================*/
+
+table {
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+table, th, td {
+    border: 1px solid #CCC;
+}
+
+th, td {
+    padding: 2px 4px;
+}
+
+thead tr:nth-child(odd) {
+    background-color: #EEEEEE;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #EEEEEE;
+}
+
+td:first-child { font-weight: bold }
 
 /*=================================================
 =            Syntax Styles from GitHub            =
